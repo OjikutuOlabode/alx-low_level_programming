@@ -1,5 +1,14 @@
 #include <stdio.h>
-/*this prints using puts*/
+
+/**
+ *
+ *  * main - Entry point
+ *
+ *   *
+ *
+ *    * Return: Always 0 (Success)
+ *
+ *     */
 int main(void)
 
 {
